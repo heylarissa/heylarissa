@@ -5,16 +5,14 @@ My passion for technology and healthcare drives me to seek innovative solutions 
 
 #### Tech Stacks
 
-**Frontend:** VueJS3, Vuetify, Javascript, HTML, CSS, Bootstrap
-**Backend:** Java, PHP, Python, JavaScript, NodeJS, Django, Django REST Framework
-**Banco de dados:** Postgresql, MySQL, MariaDB
+**Frontend:** VueJS3, Vuetify, Javascript, HTML, CSS, Bootstrap;  
+**Backend:** Java, PHP, Python, JavaScript, NodeJS, Django, Django REST Framework  
+**Banco de dados:** Postgresql, MySQL, MariaDB  
 
 #### Currently learning
-- React
-- React Native
-- AWS
-- CI/CD
-- NodeJS
+- React, React Native  
+- AWS, CI/CD and Docker  
+- NodeJS  
 
 #### Contact me
 I'm always open to connecting and collaborating with fellow developers, researchers, and enthusiasts. You can reach out to me through the following channels:
