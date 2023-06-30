@@ -17,7 +17,7 @@ My passion for technology and healthcare drives me to seek innovative solutions 
 #### Contact me
 I'm always open to connecting and collaborating with fellow developers, researchers, and enthusiasts. You can reach out to me through the following channels:
 
-**Email:** larissah.dandrade@gmail.com
+**Email:** larissah.dandrade@gmail.com  
 **LinkedIn:** [Click here](https://www.linkedin.com/in/larissahey/)
 
 Feel free to explore my GitHub repositories and get in touch. Contributions, feedback, and collaborations are always welcome!
