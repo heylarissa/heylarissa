@@ -1,7 +1,10 @@
 ### Hi there 👋
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
+- 🔭 I’m currently working as a Full Stack Developer on Polleto & Possamai Law Firm
+
+![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=heylarissa&theme=prussian)
+![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=prussian)
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,10 +26,6 @@
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-- 🔭 I’m currently working as a Full Stack Developer on Polleto & Possamai Law Firm
-
-My passion for technology and healthcare drives me to seek innovative solutions that can positively impact these fields.
-
 #### Currently learning
 - React, React Native  
 - AWS, CI/CD and Docker  
