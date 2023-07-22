@@ -20,17 +20,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-          
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - 🔭 I’m currently working as a Full Stack Developer on Polleto & Possamai Law Firm
 
 My passion for technology and healthcare drives me to seek innovative solutions that can positively impact these fields.
-
-#### Tech Stacks
-
-**Frontend:** VueJS3, Vuetify, Javascript, HTML, CSS, Bootstrap;  
-**Backend:** Java, PHP, Python, JavaScript, NodeJS, Django, Django REST Framework  
-**Banco de dados:** Postgresql, MySQL, MariaDB  
 
 #### Currently learning
 - React, React Native  
