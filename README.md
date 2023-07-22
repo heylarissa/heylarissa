@@ -2,8 +2,8 @@
           
 - 🔭 I’m currently working as a Full Stack Developer on Polleto & Possamai Law Firm
 
+![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=prussian)  
 ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=heylarissa&theme=prussian)
-![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=prussian)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
