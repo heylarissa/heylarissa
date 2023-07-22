@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working as a Full Stack Developer on Polleto & Possamai Law Firm
 
-![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=prussian)  
+![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=prussian&hide=stars,contribs)  
 ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=heylarissa&theme=prussian)
 
 
