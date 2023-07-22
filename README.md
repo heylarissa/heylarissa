@@ -1,10 +1,4 @@
 ### Hi there 👋
-          
-- 🔭 I’m currently working as a Full Stack Developer on Polleto & Possamai Law Firm
-
-![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=prussian)  
-![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=heylarissa&theme=prussian)
-
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,7 +19,14 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+
+- 🔭 I’m currently working as a Full Stack Developer on Polleto & Possamai Law Firm
+
+![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=prussian)  
+![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=heylarissa&theme=prussian)
+
+
 #### Currently learning
 - React, React Native  
 - AWS, CI/CD and Docker  
