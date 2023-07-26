@@ -4,6 +4,10 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=heylarissa&repo=heylarissa&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github" height="28px" />
 </div>
 
+- 👩‍💻 I'm a Brazilian Designer & Full Stack Developer  
+- 🔭 Currently working on Polleto & Possamai Law Firm
+
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,9 +29,6 @@
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-
-- 👩‍💻 Brazilian Full Stack Developer  
-- 🔭 Currently working on Polleto & Possamai Law Firm
 
 
 ![stats3](http://github-readme-streak-stats.herokuapp.com?user=heylarissa&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF)  
