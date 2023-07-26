@@ -1,8 +1,9 @@
-### Hi there 👋
-
-<div align="left">
+<div align="right">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=heylarissa&repo=heylarissa&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github" height="28px" />
 </div>
+
+### Hi there 👋
+
 
 - 👩‍💻 I'm a Brazilian Designer & Full Stack Developer  
 - 🔭 Currently working on Polleto & Possamai Law Firm
