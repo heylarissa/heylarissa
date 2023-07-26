@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<div align="left">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=heylarissa&repo=heylarissa&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github" height="28px" />
+</div>
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,16 +26,14 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-- 🔭 I’m currently working as a Full Stack Developer on Polleto & Possamai Law Firm
-
-![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=prussian&hide=stars,contribs)  
-![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=heylarissa&theme=prussian)
+- Brazilian Full Stack Developer  
+- 🔭 Currently working as a Full Stack Developer on Polleto & Possamai Law Firm
 
 
-#### Currently learning
-- React, React Native  
-- AWS, CI/CD and Docker  
-- NodeJS  
+![stats3](http://github-readme-streak-stats.herokuapp.com?user=heylarissa&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF)  
+![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=dark&hide=stars,contribs](https://github-readme-stats.vercel.app/api?username=heylarissa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5))  
+![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=heylarissa&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445)
+
 
 #### Contact me
 I'm always open to connecting and collaborating with fellow developers, researchers, and enthusiasts. You can reach out to me through the following channels:
