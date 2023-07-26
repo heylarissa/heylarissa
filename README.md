@@ -1,13 +1,17 @@
+
+## Hi there 👋
+
 <div align="right">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=heylarissa&repo=heylarissa&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github" height="28px" />
 </div>
-
-### Hi there 👋
 
 
 - 👩‍💻 I'm a Brazilian Designer & Full Stack Developer  
 - 🔭 Currently working on Polleto & Possamai Law Firm
 
+![stats3](http://github-readme-streak-stats.herokuapp.com?user=heylarissa&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF)
+
+<hr/>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -32,8 +36,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 
-![stats3](http://github-readme-streak-stats.herokuapp.com?user=heylarissa&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF)  
-![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=dark&hide=stars,contribs](https://github-readme-stats.vercel.app/api?username=heylarissa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5))  
+
+![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=dark&hide=stars,contribs](https://github-readme-stats.vercel.app/api?username=heylarissa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5))
 ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=heylarissa&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445)
 
 
