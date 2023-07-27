@@ -1,9 +1,14 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+<template>
+
+<LogoIcon></LogoIcon>
+
+</template>
+
+<script>
+import LogoIcon from '../components/icons/LogoIcon.vue';
+
 </script>
 
-<template>
-  <main>
-    <TheWelcome />
-  </main>
-</template>
+<style>
+
+</style>
