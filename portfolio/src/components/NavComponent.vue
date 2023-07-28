@@ -2,10 +2,10 @@
 
 <template>
 <nav>
-    <router-link to='/'>Home</router-link>
-    <router-link to='/'>Home</router-link>
-    <router-link to='/'>Home</router-link>
-    <router-link to='/'>Home</router-link>
+    <router-link to='/'>home</router-link>
+    <router-link to='/'>about</router-link>
+    <router-link to='/'>projects</router-link>
+    <router-link to='/'>contact</router-link>
 
 </nav>
 </template>
