@@ -1,9 +1,7 @@
 <template>
-<v-col>oi</v-col>
+  <v-col>oi</v-col>
 </template>
 
-<script>
-</script>
+<script></script>
 
-<style>
-</style>
+<style></style>
