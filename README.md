@@ -6,8 +6,8 @@
 </div>
 
 
-- 👩‍💻 I'm a Brazilian Designer & Full Stack Developer  
 - 🔭 Currently working on Polleto & Possamai Law Firm
+- 👩‍💻 Solid knowledge in software development with Django and Vue 3
 
 ![stats3](http://github-readme-streak-stats.herokuapp.com?user=heylarissa&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF)
 
@@ -34,8 +34,6 @@
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-
-
 
 ![stats2](https://github-readme-stats.vercel.app/api?username=heylarissa&theme=dark&hide=stars,contribs](https://github-readme-stats.vercel.app/api?username=heylarissa&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5))
 ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=heylarissa&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445)
