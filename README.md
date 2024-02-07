@@ -1,11 +1,6 @@
 
 ## Hi there 👋
 
-<div align="right">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=heylarissa&repo=heylarissa&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github" height="28px" />
-</div>
-
-
 - 🔭 Currently working at Pier, a digital insurance company (insurtech)
 - 👩‍💻 Solid knowledge in software development with Django and Vue 3
 
